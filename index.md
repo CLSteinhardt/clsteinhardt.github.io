@@ -1,6 +1,9 @@
 ---
-layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
+title: Research
+layout: collection
+permalink: /research/
+collection: research
+entries_layout: grid
+show_excerpts: false
 ---
+
