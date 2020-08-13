@@ -87,7 +87,8 @@ collections:
   papers:
     output: false
     permalink: /:collection/:path/
-    sort_by: date
+#    sort_by: date
+    sort_by: number
     sort_order: reverse
   students:
     output: false
