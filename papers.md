@@ -4,6 +4,8 @@ layout: collection
 permalink: /papers/
 collection: papers
 entries_layout: grid
+sort_by: number
+sort_order: reverse
 ---
 
 You can find a full list of papers I have been involved with using [NASA 
