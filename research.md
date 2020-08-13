@@ -12,7 +12,8 @@ learning.  My research is inspired by astrophysical phenomena whose explanation 
 theoretical ideas or new observations.  I am a founding member of the [Cosmic Dawn Center](https://dawn.nbi.ku.dk), a Danish 
 National Research Foundation Center of Excellence hosted by the Niels Bohr Institute and Danish Technical University.  I also 
 run an [undergraduate research program](https://dawn.nbi.ku.dk/events/surfdawn/) bringing undergraduates to Denmark 
-every summer.  
+every summer.  I received an A.B. in Astrophysical Sciences from Princeton University, and S.M in Astronomy, S.M. in 
+Computer Science, and Ph.D. in Astronomy from Harvard University.
 
 If you have questions about our group's research, you can email me at steinhardt(at)nbi.ku.dk.  Jeg kan læse 
 lidt dansk.

@@ -15,7 +15,7 @@ Successful applications of these other astrostatistical methods include:
 * Classifying gamma-ray bursts into two types from their prompt emission alone, a central problem in the study of these bursts
 * A re-analysis of Type Ia supernova data suggesting the possibility of a new disagreement between local and early-Universe measurements of the composition of the Universe in addition to the previously-reported tension between measurements of the Hubble constant.
 
-## Key Papers
+## Key Recent Papers
 
 
 

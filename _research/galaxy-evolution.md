@@ -24,6 +24,6 @@ The next decade is set to see the launch of two major new space missions, the [J
 
 Prior to upcoming launches, my goal is to make full use of existing telescopes.  I am the PI of [BUFFALO](https://buffalo.ipac.caltech.edu/), a large Hubble Space Telescope program which takes advantage of gravitational lensing from massive galaxy clusters to magnify distant galaxies which would otherwies be too faint for Hubble to observe.  I am also a member of the SPLASH and COSMOS teams, which have produced a 2 square degree, multi-wavelength dataset responsible for many of the discoveries mentioned above, and the upcoming Cosmic Dawn Survey.  At the same time, I develop theoretical models in an attempt to solve these puzzles, which can be tested by JWST and Euclid.
 
-## Key Papers
+## Key Recent Papers
 
 
