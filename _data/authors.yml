@@ -3,4 +3,5 @@
 
 Charles Steinhardt:
   name: Charles Steinhardt
-  picture: /images/headshot.jpg
+  picture: "/images/headshot.jpg"
+  email: "steinhardt@nbi.ku.dk"

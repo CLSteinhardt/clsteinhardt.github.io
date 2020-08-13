@@ -17,6 +17,7 @@ Successful applications of these other astrostatistical methods include:
 
 ## Key Recent Papers
 
-
-
-
+* [Jespersen et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...896L..20J/), "An Unambiguous Separation of Gamma-Ray Bursts into Two Classes from Prompt Emission Alone"
+* [Steinhardt et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...891..136S/), "A Method to Distinguish Quiescent and Dusty Star-forming Galaxies with Machine Learning"
+* [Steinhardt & Jermyn 2018](https://ui.adsabs.harvard.edu/abs/2018PASP..130b3001S/)"Nonparametric Methods in Astronomy: Think, Regress, Observe—Pick Any Three"
+* [Masters et al. 2016](https://ui.adsabs.harvard.edu/abs/2016AAS...22713914M/), "Mapping the Galaxy Color-Redshift Relation: Optimal Photo-z Calibration Strategies for Cosmology Surveys"

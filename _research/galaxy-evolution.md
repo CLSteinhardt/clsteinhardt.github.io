@@ -26,4 +26,8 @@ Prior to upcoming launches, my goal is to make full use of existing telescopes. 
 
 ## Key Recent Papers
 
-
+* [Steinhardt et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...890...19S/), "Thermal Regulation and the Star-forming Main Sequence"
+* [Steinhardt, Yurk, & Capak 2017](https://ui.adsabs.harvard.edu/abs/2017MNRAS.468..849S/), "Reconciling mass functions with the star-forming main sequence via mergers"
+* [Steinhardt et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJ...824...21S/), "The Impossibly Early Galaxy Problem"
+* [Steinhardt & Speagle 2014](https://ui.adsabs.harvard.edu/abs/2014ApJ...796...25S/), "A Uniform History for Galaxy Evolution"
+* [Speagle, Steinhardt, Capak, & Silverman 2014](https://ui.adsabs.harvard.edu/abs/2014ApJS..214...15S/), "A Highly Consistent Framework for the Evolution of the Star-Forming "Main Sequence" from z ~ 0-6"
