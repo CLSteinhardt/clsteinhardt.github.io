@@ -1,5 +1,5 @@
 ---
-title: "Ian Kuehne (2016)"
+title: "Ian Kuehne (2016), Green Hills Software"
 link: ""
 date: -2016.7
 image: 
