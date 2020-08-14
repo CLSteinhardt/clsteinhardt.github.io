@@ -13,6 +13,13 @@
     {% assign entries = entries | sort: 'date' %}
   {% endif %}
 {% endif %}
+{% elsif include.sort_by == 'number' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'number' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'number' %}
+  {% endif %}
+{% endif %}
 
 {%- for entry in entries -%}
   {% include entry.html %}
