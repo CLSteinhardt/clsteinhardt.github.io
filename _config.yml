@@ -88,8 +88,8 @@ collections:
     output: false
     permalink: /:collection/:path/
 #    sort_by: date
-    sort_by: number
-    sort_order: reverse
+#    sort_by: number
+#    sort_order: reverse
   students:
     output: false
     permalink: /:collection/:path/
@@ -126,6 +126,6 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+#  - title: Feed
+#    url: atom.xml
+#    icon: fas fa-rss-square
