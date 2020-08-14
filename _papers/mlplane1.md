@@ -4,6 +4,6 @@ link: "https://ui.adsabs.harvard.edu/abs/2010MNRAS.402.2637S"
 date: "-2010.3"
 number: 10
 image: 
-  thumbnail: images/mlplane.jpeg
+  thumbnail: images/mlplane.jpeg 
 ---
 
