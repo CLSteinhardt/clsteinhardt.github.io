@@ -12,7 +12,6 @@
   {% else %}
     {% assign entries = entries | sort: 'date' %}
   {% endif %}
-{% endif %}
 {% elsif include.sort_by == 'number' %}
   {% if include.sort_order == 'reverse' %}
     {% assign entries = entries | sort: 'number' | reverse %}
