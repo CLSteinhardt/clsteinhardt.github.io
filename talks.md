@@ -14,7 +14,7 @@ entries_layout: grid
 
 # 2020
 
-* Cosmic DAWN Summit(https://www.anisotropela.dk/dawn/summit2020#program)
+* [Cosmic DAWN Summit](https://www.anisotropela.dk/dawn/summit2020#program)
 * [EAS Special Session (Organizer)](https://eas.unige.ch/EAS2020/session.jsp?id=S4)
 * [BUFFALO Collaboration Meeting (Organizer)](https://indico.nbi.ku.dk/event/1339/)
 * DARK/DAWN
